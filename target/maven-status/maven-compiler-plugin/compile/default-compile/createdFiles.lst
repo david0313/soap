@@ -1,0 +1,13 @@
+com\assist\services\ObjectFactory.class
+com\assist\services\GetaddEmision.class
+com\assist\services\package-info.class
+com\assist\services\GetsalidaEmisionResponse.class
+assist\Application.class
+com\assist\services\TestWebService.class
+com\assist\services\GetaddEmisionResponse.class
+com\assist\services\DoTest.class
+com\assist\services\SalidaEmision.class
+com\assist\services\GetsalidaEmision.class
+com\assist\services\DoTestResponse.class
+com\assist\services\AddEmision.class
+com\assist\services\TestWebServiceImplService.class
